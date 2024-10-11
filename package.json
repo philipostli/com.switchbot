@@ -5,6 +5,7 @@
     "main": "app.js",
     "scripts": {
         "build": "homey app build",
+        "start": "homey app run",
         "validate": "homey app validate --level verified",
         "publish": "homey app publish"
     },
